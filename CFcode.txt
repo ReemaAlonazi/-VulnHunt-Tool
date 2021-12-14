@@ -1,0 +1,9 @@
+chrxor = lambda c1, c2: chr(ord(c1)^ord(c2))
+def untweakRC4(buf):
+bytes = []
+while(buf):
+bytes = [buf[-1]] + bytes
+buf = buf[:-1]
+try: bytes[0] = chrxor(bytes[0],bytes[1])
+except IndexError: pass #first byte
+return "".join(bytes
