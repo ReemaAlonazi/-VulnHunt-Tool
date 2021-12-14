@@ -1,0 +1,3 @@
+SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL.
+It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected
+by a firewall, VPN, or another type of network ACL
