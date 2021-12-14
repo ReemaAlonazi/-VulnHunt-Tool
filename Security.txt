@@ -1,0 +1,2 @@
+Missing appropriate security hardening across any part of the application stack or
+improperly configured permissions on cloud services., etc.
