@@ -1,0 +1,10 @@
+<script>
+var isAdmin = false;
+if (isAdmin) {
+  ...
+  var adminPanelTag = document.createElement('a');
+  adminPanelTag.setAttribute('https://insecure-website.com/administrator-panel-yb556');
+  adminPanelTag.innerText = 'Admin panel';
+  ...
+}
+</script>
