@@ -1,0 +1,10 @@
+4cf5e402bcb5429fe3a8355592cae904c7e91b1f3c6d908e8f7e4d568496acb:
+           DNS NAME = insecure.design
+           DNS NAME = www.inseure.design
+             Pubkey = ebc1a7c807a20e360aa083cf2bfafcc0468af1de8404a61a2004699cbdc394e6
+             Issuer = C=GB ,ST=Greater Manchester,L=Salford,0=COMODO CA Limited ,CN=COMODO RSA Domain Validation Secure Server CA
+         Not Before = 2018-02-17 00:00:00 +0000 UTC
+          Not After = 2021-02-16 23:59:59 +0000 UTC
+          BygoneSSL = True
+          Log Enter = 3 @ http://ct.example.com:6962 (Certificate)
+             crt.sh = https://crt.sh/?sha256=4cf5e402bcb5429fe3a855592cae904c7e91b1f3c6d908e8f7e4d568496acb
