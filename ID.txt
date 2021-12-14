@@ -1,0 +1,6 @@
+Insecure design is a broad category representing many different weaknesses, expressed as “missing or ineffective control design.”
+Missing insecure design is where a control is absent. For example, imagine code that should be encrypting sensitive data,
+but there is no method. Ineffective insecure design is where a threat could be realized, but insufficient domain (business)
+logic validation prevents the action. For example, imagine domain logic that is supposed to process pandemic tax relief based
+upon income brackets but does not validate that all inputs are correctly signed and provides a much more significant relief benefit
+than should be granted.
